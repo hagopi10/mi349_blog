@@ -44,3 +44,14 @@ side {
 img {
     float: right;
   }
+
+  /*media queries*/
+@media (max-width: 400px) {
+    #c1 {
+        background-color: red;
+    }
+
+    #body {
+        background: red;
+    }
+}
